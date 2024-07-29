@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Sale Timer - Noorani\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-29 09:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: mn_pst"
+
+#. Description of the plugin
+msgid "An elementor widget for show Product sale time counter"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:192
+#: Elementor-addon/SaleProductTimer.php:332
+#: Elementor-addon/SaleProductTimer.php:411
+#: Elementor-addon/SaleProductTimer.php:541
+#: Elementor-addon/SaleProductTimer.php:680
+#: Elementor-addon/SaleProductTimer.php:806
+#: Elementor-addon/SaleProductTimer.php:889
+#: Elementor-addon/SaleProductTimer.php:1028
+msgid "Border Radius"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:140
+#: Elementor-addon/SaleProductTimer.php:279
+#: Elementor-addon/SaleProductTimer.php:489
+#: Elementor-addon/SaleProductTimer.php:628
+#: Elementor-addon/SaleProductTimer.php:976
+msgid "Center"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:162
+#: Elementor-addon/SaleProductTimer.php:301
+#: Elementor-addon/SaleProductTimer.php:511
+#: Elementor-addon/SaleProductTimer.php:650
+#: Elementor-addon/SaleProductTimer.php:776
+#: Elementor-addon/SaleProductTimer.php:859
+#: Elementor-addon/SaleProductTimer.php:998
+msgid "Color"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:74
+msgid "Hide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://amin-noorani.ir/cv"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:148
+#: Elementor-addon/SaleProductTimer.php:287
+#: Elementor-addon/SaleProductTimer.php:497
+#: Elementor-addon/SaleProductTimer.php:636
+#: Elementor-addon/SaleProductTimer.php:984
+msgid "Justify"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:136
+#: Elementor-addon/SaleProductTimer.php:275
+#: Elementor-addon/SaleProductTimer.php:485
+#: Elementor-addon/SaleProductTimer.php:624
+#: Elementor-addon/SaleProductTimer.php:730
+#: Elementor-addon/SaleProductTimer.php:972
+msgid "Left"
+msgstr ""
+
+#. Author of the plugin
+msgid "M.Amin Noorani"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:110
+#: Elementor-addon/SaleProductTimer.php:249
+#: Elementor-addon/SaleProductTimer.php:389
+#: Elementor-addon/SaleProductTimer.php:459
+#: Elementor-addon/SaleProductTimer.php:598
+#: Elementor-addon/SaleProductTimer.php:754
+#: Elementor-addon/SaleProductTimer.php:946
+msgid "Margin"
+msgstr ""
+
+#: Init.php:55
+msgid "MN Widgets"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:97
+#: Elementor-addon/SaleProductTimer.php:236
+#: Elementor-addon/SaleProductTimer.php:376
+#: Elementor-addon/SaleProductTimer.php:446
+#: Elementor-addon/SaleProductTimer.php:585
+#: Elementor-addon/SaleProductTimer.php:741
+#: Elementor-addon/SaleProductTimer.php:933
+msgid "Padding"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:728
+msgid "Position"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:924
+msgid "Product End of Sale Text style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:227
+msgid "Product Excerpt style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:367
+msgid "Product Image style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:576
+msgid "Product Price style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:437
+msgid "Product Review style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:715
+msgid "Product Sale badge style"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Sale Timer - Noorani"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:46
+msgid "Product Settings"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:841
+msgid "Product Timer style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:88
+msgid "Product Title style"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:1094
+msgid "Review(s)"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:144
+#: Elementor-addon/SaleProductTimer.php:283
+#: Elementor-addon/SaleProductTimer.php:493
+#: Elementor-addon/SaleProductTimer.php:632
+#: Elementor-addon/SaleProductTimer.php:731
+#: Elementor-addon/SaleProductTimer.php:980
+msgid "Right"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:55
+msgid "Select Product"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:73
+msgid "Show"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:71
+msgid "Show Sale Badge"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:12
+msgid "Show Sale Product with timer"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:133
+#: Elementor-addon/SaleProductTimer.php:272
+#: Elementor-addon/SaleProductTimer.php:482
+#: Elementor-addon/SaleProductTimer.php:621
+#: Elementor-addon/SaleProductTimer.php:969
+msgid "Text align"
+msgstr ""
+
+#: Elementor-addon/SaleProductTimer.php:1149
+#, php-format
+msgid "You are late! Product %s discount is over :("
+msgstr ""
